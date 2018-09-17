@@ -1,3 +1,8 @@
+---
+title: "How to stop excess data consumption in windows 10"
+date: 2018-09-17
+---
+
 If you have been using windows 10 for a while now or you are totally new to Windows 10, one thing you should have noticed is that the data consumption is much compared to using previous windows operating system.
 
 Microsoft current OS windows 10 are built in such a way that when you are connected to the internet, other windows 10 users can download updates through your computer.  This was built so as to reduce the stress in downloading updates. Instead of downloading the updates from Microsoft server users can download the updates through other users computer you have already downloaded the update.  in return, it helps to reduce the number of requests that go to the server.

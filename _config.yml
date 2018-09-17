@@ -1,10 +1,10 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: The Tech Room
+author: Okenwa kenneth
+email: okenwanonsokenneth@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I’m glad you are here my name is okenwa Kenneth but I guess you already know that. 
+  Am a front-end web developer, am guessing you know that already but if you didn't well now you know. 
+  I will be talking about programming and Gadgets on this blog.
 
 # social links
 twitter_username: your-twitter-handle
@@ -12,4 +12,4 @@ github_username:  your-github-handle
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-time-machine
+theme: minima
